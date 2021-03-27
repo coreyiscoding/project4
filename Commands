@@ -1,0 +1,15 @@
+Testing making a file in my project using notpad++
+
+Here are some git commands
+cd ~ //goes to the main dir
+cat filename?.? //shows content of file in folder 
+pwd // shows current folder
+cd // 
+ll // list files
+ls // list files 
+git log //  git log --stat// get log of commits
+
+
+
+
+end
